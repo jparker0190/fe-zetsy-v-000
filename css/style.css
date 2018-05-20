@@ -16,6 +16,9 @@ header a{
 a{
   background: transparent;
 }
+header a:hover{
+	color: grey;
+}
 /*////////// Global Styles //////////*/
 
 body {
