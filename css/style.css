@@ -80,3 +80,6 @@ footer {
 .small {
 	font-size: 0.8em;
 }
+#press img:hover{
+	border: 5px grey solid;
+}
