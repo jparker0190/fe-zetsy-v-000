@@ -13,6 +13,10 @@ header a{
 	color: rgb(152,173,166);
 	text-decoration: none;
 }
+a{
+	
+      background: transparent;
+}
 /*////////// Global Styles //////////*/
 
 body {
