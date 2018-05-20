@@ -9,7 +9,10 @@ font-weight: normal;
 font-family: 'Baskerville', serif;
 border-bottom: 1px solid #ccc;
 }
-
+header a{
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
 /*////////// Global Styles //////////*/
 
 body {
