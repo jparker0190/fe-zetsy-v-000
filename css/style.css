@@ -25,5 +25,7 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
-
+img {
+	border: 0;
+}
 /* Write all remaining styles here */
